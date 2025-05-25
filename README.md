@@ -39,9 +39,11 @@ To replicate a project environment:
 
 2. Create and activate the environment:
 
+```
 conda env create -f environment.yml
 conda activate <env-name>
-Replace <env-name> with the environment name specified in the environment.yml file.
+```
+Replace `<env-name>` with the environment name specified in the `environment.yml` file.
 
 Run notebooks or scripts as within that environment.
 
