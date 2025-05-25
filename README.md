@@ -18,15 +18,7 @@ Unless otherwise specified:
 
 The current folder layout is as follows:
 
-C:.
-¦   .gitignore
-¦   LICENSE
-¦   README.md
-¦   structure.txt
-¦   
-+---hw
-¦   +---hw01
-+---projects
+<pre> ``` proj-ai-ml/ ├── .gitignore ├── LICENSE ├── README.md ├── structure.txt ├── projects/ └── hw/ └── hw01/ ``` </pre>
 
 
 Each homework or project folder may contain its own scripts, notebooks, datasets, or documentation.
@@ -45,10 +37,10 @@ Replace <env-name> with the environment name specified in the environment.yml fi
 
 Run notebooks or scripts as within that environment.
 
-Notes
+## Notes
 All code is tested and run on a machine with a CUDA compatible GPU.
 
 Variations from the default specifications will be noted in the respective folder's README file.
 
-License
+## License
 This repository is licensed under the MIT License.
