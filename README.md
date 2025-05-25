@@ -18,8 +18,16 @@ Unless otherwise specified:
 
 The current folder layout is as follows:
 
-<pre> ``` proj-ai-ml/ ├── .gitignore ├── LICENSE ├── README.md ├── structure.txt ├── projects/ └── hw/ └── hw01/ ``` </pre>
-
+```
+proj-ai-ml/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── structure.txt
+├── projects/
+└── hw/
+    └── hw01/
+```
 
 Each homework or project folder may contain its own scripts, notebooks, datasets, or documentation.
 
