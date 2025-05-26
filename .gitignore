@@ -175,3 +175,6 @@ cython_debug/
 
 # Tree structure for main README
 structure.txt
+
+# Datasets 
+HIGGS.csv.gz
