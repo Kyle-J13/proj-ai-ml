@@ -20,13 +20,13 @@ The current folder layout is as follows:
 
 ```
 proj-ai-ml/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── structure.txt
 ├── projects/
 └── hw/
-    └── hw01/
+    ├── hw01/
+    │   └── data/
+    └── hw02/
+        └── data/
+        
 ```
 
 Each homework or project folder may contain its own scripts, notebooks, datasets, or documentation.
