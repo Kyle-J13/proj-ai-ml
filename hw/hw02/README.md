@@ -7,8 +7,7 @@ This notebook implements tree based machine learning methods on the HIGGS datase
 A cleaned version of the HIGGS dataset is used. Features with high multicollinearity were removed using VIF analysis from HW01.
 
 - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/280/higgs)
-- File: `data/HIGGS_subset_clean.csv` (generated in HW01)
-- Note: csv will be located in hw02/data folder
+- File: `hw01/data/HIGGS_subset_clean.csv`
 
 ## Setup
 
