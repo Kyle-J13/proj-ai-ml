@@ -20,12 +20,11 @@ The current folder layout is as follows:
 
 ```
 proj-ai-ml/
-├── projects/
-└── hw/
-    ├── hw01/
-    │   └── data/
-    └── hw02/
-        └── data/
+└── projects/
+    └── HIGGS-classifiers/
+        ├── data/
+        ├── lin-reg/
+        └── ensemble/
         
 ```
 
