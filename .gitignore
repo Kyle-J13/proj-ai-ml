@@ -176,9 +176,13 @@ cython_debug/
 # Tree structure for main README
 structure.txt
 
-# Datasets 
-HIGGS.csv.gz
-HIGGS_subset_clean.csv
+# Ignore all files in any data/ folder at any level
+**/data/**
+
+# Keep the folders themselves and any .gitkeep placeholder
+!**/data/
+!**/data/**/
+!**/data/**/.gitkeep
 
 # Repo link for sharing
 repo-link.txt
