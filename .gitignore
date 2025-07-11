@@ -186,3 +186,7 @@ structure.txt
 
 # Repo link for sharing
 repo-link.txt
+
+# fasttext model 
+fasttext_model_full*
+
