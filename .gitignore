@@ -190,3 +190,4 @@ repo-link.txt
 # fasttext model 
 fasttext_model_full*
 
+projects/VAE/data_omniglot/**
