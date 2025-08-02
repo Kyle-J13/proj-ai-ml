@@ -191,3 +191,5 @@ repo-link.txt
 fasttext_model_full*
 
 projects/VAE/data_omniglot/**
+
+projects/NLP/eng_-french.csv
